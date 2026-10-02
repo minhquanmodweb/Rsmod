@@ -1,0 +1,8 @@
+strContent = File được tạo bởi <b><i>TD MOD</i></b>.\n<color=#FF0000>Website</color>: <b><i>thandenaov.com</i></b>.\n<color=#00BFFF>Telegram</color>: @modmapfree\n\nĐể mod skin tự chọn, hãy truy cập <color=#00BFFF>Website</color>.\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
+hasCancelBtn = true
+onConfirm = nil
+onCancel = https://thandenaov.com/
+confirmStr = Đã hiểu
+cancelStr = Website
+titleStr = Thông Báo Từ: <b><i>Thần Đèn AOV</i></b>
+isShowCloseBtn = true
