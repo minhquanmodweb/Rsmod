@@ -1,0 +1,8 @@
+strContent = File được tạo bởi <b><i>KONG MOD</i></b>\n<color=#FF0000>Website</color>: <b><i>kongmemod.github.io</i></b>\n<color=#00BFFF>Tiktok</color>: @wukongmemod\n\nĐể mod skin tự chọn, hãy truy cập <color=#00BFFF>Website</color>\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
+hasCancelBtn = true
+onConfirm = nil
+onCancel = https://discord.gg/4TxSGMTWVn
+confirmStr = Đã hiểu
+cancelStr = Hỗ trợ
+titleStr = Thông Báo Từ: <b><i>Kong Mod</i></b>
+isShowCloseBtn = true
